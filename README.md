@@ -1,0 +1,2 @@
+# MaterMind-Game
+#This program is a simple implementation of the Mastermind game using C programming language. The program randomly generates a four-digit code containing numbers between 1 and 6, and the user has 12 attempts to guess the code. After each guess, the program provides feedback to the user indicating the number of correct guesses and the number of almost correct guesses. The game continues until the user either correctly guesses the code or reaches the maximum number of attempts.
